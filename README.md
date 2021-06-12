@@ -1,4 +1,4 @@
-# OSS-Final-project
+# OSS-Final-project - 21900124 Kim Sohyeon
 
 # What is this program?
 It is important to accurately predict the price of green onions for our household expenditure because almost every food ingredient we eat includes green onions. I made a program that predicts the price of green onions by entering average temperature, highest temperature, lowest temperature, and precipitation.
